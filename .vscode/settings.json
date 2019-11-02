@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true
+}
