@@ -16,6 +16,7 @@
 ##### Example
 
 ```js
+const data = [];
 const getFirstElementSelector = createSelector(0);
-getFirstElementSelector(data);
+const element = getFirstElementSelector(data);
 ```
