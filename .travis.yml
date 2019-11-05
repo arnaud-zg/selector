@@ -12,7 +12,7 @@ install:
 script:
   - yarn run lint
   - yarn run build
-  - yarn run test
+  - yarn run test:coverage:report
 
 before_deploy:
   - if [ ! -d dist ]; then yarn run build ; fi
