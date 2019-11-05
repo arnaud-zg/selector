@@ -1,1 +1,1 @@
-export const life = () => true;
+export * from './selector';

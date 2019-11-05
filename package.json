@@ -4,8 +4,16 @@
   "main": "dist/index.js",
   "module": "dist/selector.esm.js",
   "typings": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arnaud-zg/selector.git"
+  },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "selector",
+    "typescript"
   ],
   "scripts": {
     "start": "tsdx watch",
@@ -27,11 +35,11 @@
     "trailingComma": "es5"
   },
   "devDependencies": {
-    "@types/jest": "24.0.21",
+    "@types/jest": "24.0.22",
     "husky": "3.0.9",
     "standard-version": "7.0.0",
     "tsdx": "0.11.0",
     "tslib": "1.10.0",
-    "typescript": "3.6.4"
+    "typescript": "3.7.2"
   }
 }
