@@ -1,28 +1,23 @@
-# Selector
+<h1 align="center">Welcome to selector 👋</h1>
 
-Generic selector library in Typescript
+<p>Generic selector library in Typescript</p>
 
-[![Build Status](https://travis-ci.org/arnaud-zg/selector.svg?branch=develop)](https://travis-ci.org/arnaud-zg/selector)
-[![Bundle Size](https://badgen.net/bundlephobia/min/selector)](https://bundlephobia.com/result?p=selector)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/arnaud-zg/selector)
-![Version](https://img.shields.io/npm/v/selector)
-
-## Getting Started
-
-These instructions will let you know how to use the library.
-
-### Prerequisites
-
-Things you need to install before using this library.
-
-```shell
-node: 10.15.0
-nvm: 0.33.6
-```
+<p>
+  <a href="https://www.npmjs.com/package/selector" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/selector.svg">
+  </a>
+  <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/m/arnaud-zg/selector" />
+  <a href="https://travis-ci.org/arnaud-zg/selector" target="_blank">
+    <img alt="Build Status" src="https://travis-ci.org/arnaud-zg/selector.svg?branch=develop" />
+  </a>
+  <a href="https://bundlephobia.com/result?p=selector" target="_blank">
+    <img alt="Bundle Size" src="https://badgen.net/bundlephobia/min/selector" />
+  </a>
+</p>
 
 ### Installing
 
-sing npm:
+Using npm:
 
 ```shell
 npm i --save selector
@@ -73,6 +68,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 - **Arnaud Zheng** - _Initial work_ - [arnaud-zg](https://github.com/arnaud-zg)
 
 See also the list of [contributors](https://github.com/arnaud-zg/selector/graphs/contributors) who participated in this project.
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
 
 ## License
 
