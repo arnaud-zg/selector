@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createSelector should select first active item 1`] = `
+Object {
+  "isActive": true,
+  "name": "Sofa",
+}
+`;
+
+exports[`createSelector should select first element 1`] = `"It's me"`;
+
+exports[`createSelector should select first element 2`] = `"It's me"`;
+
+exports[`createSelector should select first item price 1`] = `100`;
