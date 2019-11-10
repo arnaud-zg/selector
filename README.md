@@ -29,11 +29,21 @@ Using yarn:
 yarn add --dev selector
 ```
 
-## Documentation
+## Usage
 
-Look at the documentation
+Here are examples of how you can use `selector`.
 
-- [Usage](./docs/usage.md)
+### createSelector
+
+> Return a selector helper
+
+##### Example
+
+```js
+const data = [];
+const getFirstElementSelector = createSelector(0);
+const element = getFirstElementSelector(data);
+```
 
 ## Running the tests
 
