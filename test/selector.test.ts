@@ -24,6 +24,12 @@ describe('createSelector', () => {
     expect(firstElementSelector<string[]>([])).toBeUndefined();
   });
 
+  it('should select first element', () => {
+    const firstElementSelector = createSelector(0);
+    expect(firstElementSelector(["It's me"])).toMatchSnapshot();
+    expect(firstElementSelector<string[]>(["It's me"])).toMatchSnapshot();
+  });
+
   it('should select first item price', () => {
     const data: IData = {
       items: [
