@@ -40,9 +40,10 @@ Here are examples of how you can use `selector`.
 ##### Example
 
 ```js
-const data = [];
-const getFirstElementSelector = createSelector(0);
-const element = getFirstElementSelector(data);
+const data = ['John']
+const getFirstElementSelector = createSelector(0)
+const element = getFirstElementSelector(data)
+console.log(element) // It'll display 'John'
 ```
 
 ## Running the tests
