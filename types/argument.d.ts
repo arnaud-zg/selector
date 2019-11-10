@@ -1,3 +1,3 @@
 export declare namespace NArgument {
-  type TArgument = string | number | Function;
+  type TArgument = boolean | Function | number | string
 }
