@@ -1,34 +1,34 @@
-import { createSelector } from '../src';
+import { createSelector } from '../src'
 
 interface IItem {
-  name: string;
-  isActive?: boolean;
-  price?: number;
+  name: string
+  isActive?: boolean
+  price?: number
 }
 
 interface IData {
-  items: IItem[];
+  items: IItem[]
 }
 
 describe('createSelector', () => {
   it('should create selector', () => {
-    const firstElementSelector = createSelector(0);
-    expect(typeof firstElementSelector).toEqual('function');
-    expect(firstElementSelector([])).toBeUndefined();
-    expect(firstElementSelector<string[]>([])).toBeUndefined();
-  });
+    const firstElementSelector = createSelector(0)
+    expect(typeof firstElementSelector).toEqual('function')
+    expect(firstElementSelector([])).toBeUndefined()
+    expect(firstElementSelector<string[]>([])).toBeUndefined()
+  })
 
   it('should get nothing', () => {
-    const firstElementSelector = createSelector(0);
-    expect(firstElementSelector([])).toBeUndefined();
-    expect(firstElementSelector<string[]>([])).toBeUndefined();
-  });
+    const firstElementSelector = createSelector(0)
+    expect(firstElementSelector([])).toBeUndefined()
+    expect(firstElementSelector<string[]>([])).toBeUndefined()
+  })
 
   it('should select first element price', () => {
-    const firstElementSelector = createSelector(0);
-    expect(firstElementSelector(["It's me"])).toMatchSnapshot();
-    expect(firstElementSelector<string[]>(["It's me"])).toMatchSnapshot();
-  });
+    const firstElementSelector = createSelector(0)
+    expect(firstElementSelector(["It's me"])).toMatchSnapshot()
+    expect(firstElementSelector<string[]>(["It's me"])).toMatchSnapshot()
+  })
 
   it('should select first item price', () => {
     const data: IData = {
@@ -38,14 +38,14 @@ describe('createSelector', () => {
           price: 100,
         },
       ],
-    };
+    }
     const firstElementPriceSelector = createSelector(
       'items',
       0,
       (item: IItem) => item.price
-    );
-    expect(firstElementPriceSelector(data)).toMatchSnapshot();
-  });
+    )
+    expect(firstElementPriceSelector(data)).toMatchSnapshot()
+  })
 
   it('should select first active item', () => {
     const data: IData = {
@@ -63,11 +63,11 @@ describe('createSelector', () => {
           isActive: true,
         },
       ],
-    };
+    }
     const firstActiveElementSelector = createSelector(
       'items',
       (items: IItem[]) => items.find((item: IItem) => item.isActive)
-    );
-    expect(firstActiveElementSelector(data)).toMatchSnapshot();
-  });
-});
+    )
+    expect(firstActiveElementSelector(data)).toMatchSnapshot()
+  })
+})
