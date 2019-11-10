@@ -18,8 +18,14 @@ describe('createSelector', () => {
     expect(firstElementSelector<string[]>([])).toBeUndefined()
   })
 
+  it('should get nothing with unsupported argument', () => {
+    const firstElementSelector = createSelector(true)
+    expect(firstElementSelector([])).toBeUndefined()
+  })
+
   it('should get nothing', () => {
     const firstElementSelector = createSelector(0)
+    expect(firstElementSelector<null>(null)).toBeUndefined()
     expect(firstElementSelector([])).toBeUndefined()
     expect(firstElementSelector<string[]>([])).toBeUndefined()
   })
