@@ -7,8 +7,8 @@ Object {
 }
 `;
 
-exports[`createSelector should select first element price 1`] = `"It's me"`;
+exports[`createSelector should select first element 1`] = `"It's me"`;
 
-exports[`createSelector should select first element price 2`] = `"It's me"`;
+exports[`createSelector should select first element 2`] = `"It's me"`;
 
 exports[`createSelector should select first item price 1`] = `100`;
