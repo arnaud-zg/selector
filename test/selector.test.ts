@@ -25,7 +25,6 @@ describe('createSelector', () => {
 
   it('should get nothing', () => {
     const firstElementSelector = createSelector(0)
-    expect(firstElementSelector<null>(null)).toBeUndefined()
     expect(firstElementSelector([])).toBeUndefined()
     expect(firstElementSelector<string[]>([])).toBeUndefined()
   })
