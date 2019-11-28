@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0-alpha.2](https://github.com/arnaud-zg/selector/compare/v2.0.0-alpha.1...v2.0.0-alpha.2) (2019-11-28)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v24.0.23 ([#22](https://github.com/arnaud-zg/selector/issues/22)) ([feb1ae5](https://github.com/arnaud-zg/selector/commit/feb1ae521a4563cdad1c5789d2a1e77fc0e44536))
+* **deps:** update dependency husky to v3.1.0 ([#23](https://github.com/arnaud-zg/selector/issues/23)) ([6353dc0](https://github.com/arnaud-zg/selector/commit/6353dc0e0751e6917ac559ba4c494879113413b5))
+* **deps:** update dependency standard-version to v7.0.1 ([#24](https://github.com/arnaud-zg/selector/issues/24)) ([19e3d0b](https://github.com/arnaud-zg/selector/commit/19e3d0b9316f97c75e5f6cf1fc045177c090dd00))
+
 ## [2.0.0-alpha.1](https://github.com/arnaud-zg/selector/compare/v2.0.0-alpha.0...v2.0.0-alpha.1) (2019-11-10)
 
 
