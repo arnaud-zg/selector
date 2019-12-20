@@ -8,7 +8,5 @@ export const createSelector = (...args: NArgument.TArgument[]) => <TData>(
       return (acc as any)[key]
     }
 
-    if (typeof key === 'function') {
-      return key(acc)
-    }
+    return typeof key === 'function' ? key(acc) : acc
   }, data)

@@ -18,9 +18,9 @@ describe('createSelector', () => {
     expect(firstElementSelector<string[]>([])).toBeUndefined()
   })
 
-  it('should get nothing with unsupported argument', () => {
+  it('should get arg with unsupported argument', () => {
     const firstElementSelector = createSelector(true)
-    expect(firstElementSelector([])).toBeUndefined()
+    expect(firstElementSelector([])).toEqual([])
   })
 
   it('should get nothing', () => {
@@ -32,7 +32,9 @@ describe('createSelector', () => {
   it('should select first element', () => {
     const firstElementSelector = createSelector(0)
     expect(firstElementSelector(["It's me"])).toMatchSnapshot()
-    expect(firstElementSelector<string[]>(["It's me"])).toMatchSnapshot()
+    expect(
+      firstElementSelector<string[]>(["It's me"])
+    ).toMatchSnapshot()
   })
 
   it('should select first item price', () => {
