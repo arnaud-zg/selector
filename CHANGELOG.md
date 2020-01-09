@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0-alpha.3](https://github.com/arnaud-zg/selector/compare/v2.0.0-alpha.2...v2.0.0-alpha.3) (2020-01-09)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v24.0.24 ([#27](https://github.com/arnaud-zg/selector/issues/27)) ([1ae8d72](https://github.com/arnaud-zg/selector/commit/1ae8d727b190dafb98b0e7b170c15103ec0a2ad0))
+* **deps:** update dependency @types/jest to v24.0.25 ([#30](https://github.com/arnaud-zg/selector/issues/30)) ([a9768f4](https://github.com/arnaud-zg/selector/commit/a9768f4334a3f34db3341224ac24cdcc966e8c8b))
+* **deps:** update dependency husky to v4 ([#32](https://github.com/arnaud-zg/selector/issues/32)) ([250e697](https://github.com/arnaud-zg/selector/commit/250e697e4be1b3669c377944cfaae35bc12060ff))
+* **deps:** update dependency husky to v4.0.1 ([#33](https://github.com/arnaud-zg/selector/issues/33)) ([8886330](https://github.com/arnaud-zg/selector/commit/888633070143a45fc8e1407980121d4aa8dfbb05))
+* **deps:** update dependency husky to v4.0.3 ([#34](https://github.com/arnaud-zg/selector/issues/34)) ([76fe644](https://github.com/arnaud-zg/selector/commit/76fe644649d0dab97d79327e462cca71fdd52a7e))
+* **deps:** update dependency tsdx to v0.12.0 ([#28](https://github.com/arnaud-zg/selector/issues/28)) ([78fc6cb](https://github.com/arnaud-zg/selector/commit/78fc6cb59be28017b21515d64b04c885f85f43d9))
+* **deps:** update dependency tsdx to v0.12.1 ([#31](https://github.com/arnaud-zg/selector/issues/31)) ([f73bdc9](https://github.com/arnaud-zg/selector/commit/f73bdc97fa0072861a871822e0b2682a5fb3e061))
+* **deps:** update dependency typescript to v3.7.3 ([#25](https://github.com/arnaud-zg/selector/issues/25)) ([6c243d9](https://github.com/arnaud-zg/selector/commit/6c243d9e8e0e877c48939a8f1283b602def3b9c8))
+* **deps:** update dependency typescript to v3.7.4 ([#29](https://github.com/arnaud-zg/selector/issues/29)) ([a760e42](https://github.com/arnaud-zg/selector/commit/a760e4276722a09a683eb65755012eaf7f4ba328))
+* **deps:** update node.js to v10.18.0 ([#26](https://github.com/arnaud-zg/selector/issues/26)) ([336faed](https://github.com/arnaud-zg/selector/commit/336faed17f8eabe312f3bd0bdb0edbd2d5c50c24))
+
 ## [2.0.0-alpha.2](https://github.com/arnaud-zg/selector/compare/v2.0.0-alpha.1...v2.0.0-alpha.2) (2019-11-28)
 
 
