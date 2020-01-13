@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/arnaud-zg/selector/compare/v2.0.0...v2.0.1) (2020-01-13)
+
+
+### 🐛 Bug Fixes
+
+* use api_token ([b50034b](https://github.com/arnaud-zg/selector/commit/b50034b786bf66663ad43ec7e3c8b11bb168823e))
+
 ## [2.0.0](https://github.com/arnaud-zg/selector/compare/v2.0.0-alpha.4...v2.0.0) (2020-01-13)
 
 ## [2.0.0-alpha.4](https://github.com/arnaud-zg/selector/compare/v2.0.0-alpha.3...v2.0.0-alpha.4) (2020-01-13)
