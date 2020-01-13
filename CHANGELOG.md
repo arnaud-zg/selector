@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0-alpha.4](https://github.com/arnaud-zg/selector/compare/v2.0.0-alpha.3...v2.0.0-alpha.4) (2020-01-13)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency husky to v4.0.4 ([#35](https://github.com/arnaud-zg/selector/issues/35)) ([cf55eef](https://github.com/arnaud-zg/selector/commit/cf55eef4c79daced68f11ac2bb2953efba3233a5))
+* **deps:** update dependency husky to v4.0.6 ([#37](https://github.com/arnaud-zg/selector/issues/37)) ([585214b](https://github.com/arnaud-zg/selector/commit/585214bb668c9f5d851edd309907c8bd6c58e30f))
+* **deps:** update dependency husky to v4.0.7 ([#38](https://github.com/arnaud-zg/selector/issues/38)) ([ba961e4](https://github.com/arnaud-zg/selector/commit/ba961e4eb53ee53efdaeea65a5241704a98d295e))
+* **deps:** update dependency tsdx to v0.12.3 ([#39](https://github.com/arnaud-zg/selector/issues/39)) ([b9e518c](https://github.com/arnaud-zg/selector/commit/b9e518cfc06bf1b322f364f2a0bb465aa4c92ef2))
+* **deps:** update node.js to v10.18.1 ([#36](https://github.com/arnaud-zg/selector/issues/36)) ([4925df6](https://github.com/arnaud-zg/selector/commit/4925df6feb7ea2d0631436eb5c968e28654d73fe))
+
 ## [2.0.0-alpha.3](https://github.com/arnaud-zg/selector/compare/v2.0.0-alpha.2...v2.0.0-alpha.3) (2020-01-09)
 
 
