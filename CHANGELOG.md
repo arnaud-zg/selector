@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.3](https://github.com/arnaud-zg/selector/compare/v2.0.2...v2.0.3) (2020-01-18)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v24.9.0 ([#42](https://github.com/arnaud-zg/selector/issues/42)) ([3873def](https://github.com/arnaud-zg/selector/commit/3873def3745a38e56de4f661af1a252cffcc6d8f))
+* **deps:** update dependency husky to v4.0.10 ([#43](https://github.com/arnaud-zg/selector/issues/43)) ([0f58625](https://github.com/arnaud-zg/selector/commit/0f586255ad6d85c98e37f066a8fea1bcd4e4e5ac))
+* **deps:** update dependency husky to v4.0.8 ([#40](https://github.com/arnaud-zg/selector/issues/40)) ([a476b9d](https://github.com/arnaud-zg/selector/commit/a476b9d35893f11a460e69e82d5aeefbe13bfbd0))
+* **deps:** update dependency husky to v4.0.9 ([#41](https://github.com/arnaud-zg/selector/issues/41)) ([fd704f1](https://github.com/arnaud-zg/selector/commit/fd704f16dbfc5921a70a58a7d40c53d4a8fea262))
+* **deps:** update dependency typescript to v3.7.5 ([#44](https://github.com/arnaud-zg/selector/issues/44)) ([c972d25](https://github.com/arnaud-zg/selector/commit/c972d25f6106c846c88234d572a1e3a6099e20f5))
+
 ### [2.0.2](https://github.com/arnaud-zg/selector/compare/v2.0.1...v2.0.2) (2020-01-13)
 
 
