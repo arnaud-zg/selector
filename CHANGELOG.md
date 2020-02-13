@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.5](https://github.com/arnaud-zg/selector/compare/v2.0.4...v2.0.5) (2020-02-13)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v25.1.1 ([#52](https://github.com/arnaud-zg/selector/issues/52)) ([1b2b22e](https://github.com/arnaud-zg/selector/commit/1b2b22e05305d89aeb46a2854b8587736d5c9851))
+* **deps:** update dependency @types/jest to v25.1.2 ([#56](https://github.com/arnaud-zg/selector/issues/56)) ([b9acb91](https://github.com/arnaud-zg/selector/commit/b9acb919f2ea64161abf51ea7d6015da4797e594))
+* **deps:** update dependency codecov to v3.6.3 ([#53](https://github.com/arnaud-zg/selector/issues/53)) ([11ea098](https://github.com/arnaud-zg/selector/commit/11ea0984b6fa6e99711623c9409f58e2949876a0))
+* **deps:** update dependency codecov to v3.6.4 ([#54](https://github.com/arnaud-zg/selector/issues/54)) ([454fa81](https://github.com/arnaud-zg/selector/commit/454fa817f1809c1f3d7b5f9510204be8758a3ca1))
+* **deps:** update dependency codecov to v3.6.5 ([#57](https://github.com/arnaud-zg/selector/issues/57)) ([146edbe](https://github.com/arnaud-zg/selector/commit/146edbef745a88f35333169ab919a9c154d97eae))
+* **deps:** update dependency husky to v4.2.2 ([#58](https://github.com/arnaud-zg/selector/issues/58)) ([46bfafa](https://github.com/arnaud-zg/selector/commit/46bfafad094f1882c39be0efe27a533f883842c1))
+* **deps:** update dependency husky to v4.2.3 ([#59](https://github.com/arnaud-zg/selector/issues/59)) ([568dce5](https://github.com/arnaud-zg/selector/commit/568dce5c6c4effcff91b231617214fb471f2f88e))
+* **deps:** update node.js to v10.19.0 ([#55](https://github.com/arnaud-zg/selector/issues/55)) ([9fa954d](https://github.com/arnaud-zg/selector/commit/9fa954d3e3d7ebd361d89b71ff5d3caf78e523b4))
+
 ### [2.0.4](https://github.com/arnaud-zg/selector/compare/v2.0.3...v2.0.4) (2020-01-27)
 
 
