@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.6](https://github.com/arnaud-zg/selector/compare/v2.0.5...v2.0.6) (2020-03-01)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v25.1.3 ([#60](https://github.com/arnaud-zg/selector/issues/60)) ([35712c4](https://github.com/arnaud-zg/selector/commit/35712c4a91a646877fe52ff68a66d84c84f0f34d))
+* **deps:** update dependency tslib to v1.11.0 ([#61](https://github.com/arnaud-zg/selector/issues/61)) ([72c165c](https://github.com/arnaud-zg/selector/commit/72c165c12a30905bbb40dd07e290c87c1cf5812e))
+* **deps:** update dependency tslib to v1.11.1 ([#63](https://github.com/arnaud-zg/selector/issues/63)) ([7d02e37](https://github.com/arnaud-zg/selector/commit/7d02e37c233504fa81707b24f128dcbbb97cb6d0))
+* **deps:** update dependency typescript to v3.8.2 ([#62](https://github.com/arnaud-zg/selector/issues/62)) ([40e8f1b](https://github.com/arnaud-zg/selector/commit/40e8f1b1d8d4b932db6bfb12c30e212107b749e7))
+* **deps:** update dependency typescript to v3.8.3 ([#64](https://github.com/arnaud-zg/selector/issues/64)) ([af5562a](https://github.com/arnaud-zg/selector/commit/af5562a2b7c081d377938bd82964010413cf5576))
+
 ### [2.0.5](https://github.com/arnaud-zg/selector/compare/v2.0.4...v2.0.5) (2020-02-13)
 
 
