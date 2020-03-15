@@ -37,13 +37,52 @@ Here are examples of how you can use `selector`.
 
 > Return a selector helper
 
-##### Example
+#### Examples
 
-```js
+```ts
 const data = ['John']
 const getFirstElementSelector = createSelector(0)
 const element = getFirstElementSelector(data)
 console.log(element) // It'll display 'John'
+```
+
+```ts
+const data = { item: { name: 'Television', isActive: true } }
+const selector = createSelector('item', 'name')
+const itemName = selector(data)
+console.log(itemName) // It'll display 'Television'
+```
+
+```ts
+const data = {
+  items: [
+    {
+      name: 'Television',
+      isActive: false,
+    },
+    {
+      name: 'Sofa',
+      isActive: true,
+    },
+    {
+      name: 'Door',
+      isActive: true,
+    },
+  ],
+}
+const firstActiveElementSelector = createSelector('items', (items: IItem[]) =>
+  items.find((item: IItem) => item.isActive)
+)
+const element = firstActiveElementSelector(data)
+console.log(element) // It'll display '{ "isActive": true, "name": "Sofa" }'
+```
+
+```ts
+const path = 'items.0.name'
+const data = { items: [{ name: 'Television', isActive: true }] }
+const selector = createSelector(...path.split('.'))
+const itemName = selector(data)
+console.log(itemName) // It'll display 'Television'
 ```
 
 ## Running the tests
