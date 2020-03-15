@@ -39,12 +39,16 @@ Here are examples of how you can use `selector`.
 
 #### Examples
 
+##### Get first item
+
 ```ts
 const data = ['John']
-const getFirstElementSelector = createSelector(0)
-const element = getFirstElementSelector(data)
-console.log(element) // It'll display 'John'
+const getFirstItemSelector = createSelector(0)
+const item = getFirstItemSelector(data)
+console.log(item) // It'll display 'John'
 ```
+
+##### Get first item's name
 
 ```ts
 const data = { item: { name: 'Television', isActive: true } }
@@ -52,6 +56,8 @@ const selector = createSelector('item', 'name')
 const itemName = selector(data)
 console.log(itemName) // It'll display 'Television'
 ```
+
+##### Get first item active
 
 ```ts
 const data = {
@@ -70,12 +76,14 @@ const data = {
     },
   ],
 }
-const firstActiveElementSelector = createSelector('items', (items: IItem[]) =>
+const firstActiveItemSelector = createSelector('items', (items: IItem[]) =>
   items.find((item: IItem) => item.isActive)
 )
-const element = firstActiveElementSelector(data)
-console.log(element) // It'll display '{ "isActive": true, "name": "Sofa" }'
+const item = firstActiveItemSelector(data)
+console.log(item) // It'll display '{ "isActive": true, "name": "Sofa" }'
 ```
+
+##### Select item with path
 
 ```ts
 const path = 'items.0.name'
