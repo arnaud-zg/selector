@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.8](https://github.com/arnaud-zg/selector/compare/v2.0.7...v2.0.8) (2020-04-07)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v25.1.5 ([#68](https://github.com/arnaud-zg/selector/issues/68)) ([32b7351](https://github.com/arnaud-zg/selector/commit/32b7351ef72b45bf6d6b6b4c1d1d1d90b0be34b7))
+* **deps:** update dependency @types/jest to v25.2.1 ([#69](https://github.com/arnaud-zg/selector/issues/69)) ([08e5ce7](https://github.com/arnaud-zg/selector/commit/08e5ce7e4dec27d8daf5a514800ae53cccda1426))
+
 ### [2.0.7](https://github.com/arnaud-zg/selector/compare/v2.0.6...v2.0.7) (2020-03-15)
 
 
