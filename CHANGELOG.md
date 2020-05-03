@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.9](https://github.com/arnaud-zg/selector/compare/v2.0.8...v2.0.9) (2020-05-03)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency husky to v4.2.5 ([#71](https://github.com/arnaud-zg/selector/issues/71)) ([cddf901](https://github.com/arnaud-zg/selector/commit/cddf90178ff86ff6a2fa2e53420a895a998d0d86))
+* **deps:** update dependency tsdx to v0.13.2 ([#67](https://github.com/arnaud-zg/selector/issues/67)) ([5f4eb84](https://github.com/arnaud-zg/selector/commit/5f4eb843ab40e2a9e7ac81034a18de2aa369e14f))
+* **deps:** update node.js to v10.20.1 ([#70](https://github.com/arnaud-zg/selector/issues/70)) ([76df3b1](https://github.com/arnaud-zg/selector/commit/76df3b169c216055c2ddb4dc332ec631827ab096))
+* update typescript config ([#72](https://github.com/arnaud-zg/selector/issues/72)) ([0e637d1](https://github.com/arnaud-zg/selector/commit/0e637d16afc1a8c532506a5b336b47a94f4febe4))
+
 ### [2.0.8](https://github.com/arnaud-zg/selector/compare/v2.0.7...v2.0.8) (2020-04-07)
 
 
