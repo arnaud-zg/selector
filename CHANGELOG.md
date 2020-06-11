@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.12](https://github.com/arnaud-zg/selector/compare/v2.0.11...v2.0.12) (2020-06-11)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v26 ([#85](https://github.com/arnaud-zg/selector/issues/85)) ([8e17a7d](https://github.com/arnaud-zg/selector/commit/8e17a7d8e8c7554d46ba7beebad7fe67e114b5c6))
+* **deps:** update dependency typescript to v3.9.5 ([#84](https://github.com/arnaud-zg/selector/issues/84)) ([3624fbd](https://github.com/arnaud-zg/selector/commit/3624fbd1a3b7c96820445905e042dd5b427aef6b))
+* **deps:** update node.js to v10.21.0 ([#83](https://github.com/arnaud-zg/selector/issues/83)) ([92bfeee](https://github.com/arnaud-zg/selector/commit/92bfeee35f7bb55823032134366f4722e3f33740))
+
 ### [2.0.11](https://github.com/arnaud-zg/selector/compare/v2.0.10...v2.0.11) (2020-05-26)
 
 
