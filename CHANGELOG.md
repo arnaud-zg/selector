@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.14](https://github.com/arnaud-zg/selector/compare/v2.0.13...v2.0.14) (2020-08-13)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v26.0.5 ([#98](https://github.com/arnaud-zg/selector/issues/98)) ([5c98343](https://github.com/arnaud-zg/selector/commit/5c98343e1ca83d767798dfaa4999d3cccdd07c72))
+* **deps:** update dependency @types/jest to v26.0.6 ([#101](https://github.com/arnaud-zg/selector/issues/101)) ([d7bf2d7](https://github.com/arnaud-zg/selector/commit/d7bf2d75fef4b4229b276102a61c458e4d3bb48f))
+* **deps:** update dependency @types/jest to v26.0.7 ([#102](https://github.com/arnaud-zg/selector/issues/102)) ([edfd2c5](https://github.com/arnaud-zg/selector/commit/edfd2c5fea63a018acb9bf37861416fb82a34ac1))
+* **deps:** update dependency @types/jest to v26.0.8 ([#103](https://github.com/arnaud-zg/selector/issues/103)) ([fe67a0c](https://github.com/arnaud-zg/selector/commit/fe67a0cc13f9aaf6f78e55ee93814422f4314efb))
+* **deps:** update dependency @types/jest to v26.0.9 ([#104](https://github.com/arnaud-zg/selector/issues/104)) ([f2e37ba](https://github.com/arnaud-zg/selector/commit/f2e37ba637499992397726ccf84fdbdea1a752b9))
+* **deps:** update dependency codecov to v3.7.1 ([#96](https://github.com/arnaud-zg/selector/issues/96)) ([4209c89](https://github.com/arnaud-zg/selector/commit/4209c89d178db7ef5650e5a6503e013af2b882d4))
+* **deps:** update dependency codecov to v3.7.2 ([#100](https://github.com/arnaud-zg/selector/issues/100)) ([16901f7](https://github.com/arnaud-zg/selector/commit/16901f7e55dab21c28e70e934eeba6cf61f35295))
+* **deps:** update dependency standard-version to v8.0.1 [security] ([#92](https://github.com/arnaud-zg/selector/issues/92)) ([d011199](https://github.com/arnaud-zg/selector/commit/d0111997c8ea0b6eae6d3b52dac2289d5a146eb6))
+* **deps:** update dependency standard-version to v8.0.2 ([#93](https://github.com/arnaud-zg/selector/issues/93)) ([99c5152](https://github.com/arnaud-zg/selector/commit/99c515268fbbfb27d878765f70ef1e0d6134e6b8))
+* **deps:** update dependency tslib to v2.0.1 ([#105](https://github.com/arnaud-zg/selector/issues/105)) ([893e901](https://github.com/arnaud-zg/selector/commit/893e901fd03f3d46227fcf37b4ce15a18e157df4))
+* **deps:** update dependency typescript to v3.9.7 ([#94](https://github.com/arnaud-zg/selector/issues/94)) ([f1c3c0a](https://github.com/arnaud-zg/selector/commit/f1c3c0a91aac0d9f24347f7f65992b573a4bf93a))
+* **deps:** update node.js to v10.22.0 ([#99](https://github.com/arnaud-zg/selector/issues/99)) ([42d46c3](https://github.com/arnaud-zg/selector/commit/42d46c3235021520fe72814580d1ec0d11ba657b))
+
+
+### 📦 Build System
+
+* **deps:** bump acorn from 5.7.3 to 5.7.4 ([#97](https://github.com/arnaud-zg/selector/issues/97)) ([16603d2](https://github.com/arnaud-zg/selector/commit/16603d2a7e326595cca847b03d834d75831e2f7c))
+* **deps:** bump lodash from 4.17.15 to 4.17.19 ([#95](https://github.com/arnaud-zg/selector/issues/95)) ([4b10df6](https://github.com/arnaud-zg/selector/commit/4b10df6a8c5de978bf597d2e67371bcf3af7d932))
+
 ### [2.0.13](https://github.com/arnaud-zg/selector/compare/v2.0.12...v2.0.13) (2020-07-07)
 
 
