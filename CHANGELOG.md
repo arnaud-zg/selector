@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.16](https://github.com/arnaud-zg/selector/compare/v2.0.15...v2.0.16) (2020-08-20)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency typescript to v4 ([#108](https://github.com/arnaud-zg/selector/issues/108)) ([2adb477](https://github.com/arnaud-zg/selector/commit/2adb477b0009f2ebb0e9c67e5711d79b5a4a9e84))
+
 ### [2.0.15](https://github.com/arnaud-zg/selector/compare/v2.0.14...v2.0.15) (2020-08-15)
 
 
