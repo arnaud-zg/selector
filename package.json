@@ -1,6 +1,6 @@
 {
   "name": "selector",
-  "version": "2.0.17",
+  "version": "2.0.18",
   "description": "Generic selector library",
   "main": "dist/index.js",
   "module": "dist/selector.esm.js",
