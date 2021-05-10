@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.20](https://github.com/arnaud-zg/selector/compare/v2.0.19...v2.0.20) (2021-05-10)
+
+
+### 📦 Build System
+
+* **deps:** bump handlebars from 4.7.6 to 4.7.7 ([#168](https://github.com/arnaud-zg/selector/issues/168)) ([2988517](https://github.com/arnaud-zg/selector/commit/298851765d988f8151814851fc0200fd5dca4469))
+* **deps:** bump hosted-git-info from 2.8.5 to 2.8.9 ([#170](https://github.com/arnaud-zg/selector/issues/170)) ([03fb291](https://github.com/arnaud-zg/selector/commit/03fb29100923f0399eca964c8fc1889e4532de15))
+* **deps:** bump lodash from 4.17.19 to 4.17.21 ([#169](https://github.com/arnaud-zg/selector/issues/169)) ([e1386c4](https://github.com/arnaud-zg/selector/commit/e1386c433f5bc1bb1ee0a327109e5c91edfb07ef))
+
+
+### 🔧 Chore
+
+* migrate to husky 6 ([2bc25d0](https://github.com/arnaud-zg/selector/commit/2bc25d066d0f15ad76f7cd6004ae789bc6821723))
+* **deps:** update dependency @types/jest to v26.0.23 ([#165](https://github.com/arnaud-zg/selector/issues/165)) ([658fc2a](https://github.com/arnaud-zg/selector/commit/658fc2af32b804f7b26fdb748a0dc597449caf5e))
+* **deps:** update dependency codecov to v3.8.2 ([#166](https://github.com/arnaud-zg/selector/issues/166)) ([56766d3](https://github.com/arnaud-zg/selector/commit/56766d37c637f8f06c5a49171a5cc2a05e3886db))
+* **deps:** update dependency standard-version to v9.2.0 ([#162](https://github.com/arnaud-zg/selector/issues/162)) ([4f1d498](https://github.com/arnaud-zg/selector/commit/4f1d498e5150796ce69f58d18a4f9296dcdd150b))
+* **deps:** update dependency standard-version to v9.3.0 ([#167](https://github.com/arnaud-zg/selector/issues/167)) ([0331daa](https://github.com/arnaud-zg/selector/commit/0331daa59594a45d6cba0bb1ae6ca176d1b90137))
+* **deps:** update dependency typescript to v4.2.4 ([#164](https://github.com/arnaud-zg/selector/issues/164)) ([ce9e0c9](https://github.com/arnaud-zg/selector/commit/ce9e0c993fb8eb4f35731f94a832d35d93818bae))
+* **deps:** update node.js to v14.16.1 ([#163](https://github.com/arnaud-zg/selector/issues/163)) ([ed068d7](https://github.com/arnaud-zg/selector/commit/ed068d7b7791fd0d293bf3687ad72bf4d044dd52))
+
 ### [2.0.19](https://github.com/arnaud-zg/selector/compare/v2.0.18...v2.0.19) (2021-04-06)
 
 
