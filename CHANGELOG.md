@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/arnaud-zg/selector/compare/v2.0.20...v2.1.0) (2022-06-06)
+
+
+### 🖋 Features
+
+* move to github actions ([#221](https://github.com/arnaud-zg/selector/issues/221)) ([0c08c1e](https://github.com/arnaud-zg/selector/commit/0c08c1e5a11740a762bb2a3c392b03400ca7b60c))
+
 ### [2.0.20](https://github.com/arnaud-zg/selector/compare/v2.0.19...v2.0.20) (2021-05-10)
 
 
