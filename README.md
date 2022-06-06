@@ -1,5 +1,9 @@
 <h1 align="center">Welcome to selector 👋</h1>
 
+[![codecov](https://codecov.io/gh/arnaud-zg/selector/branch/master/graph/badge.svg)](https://codecov.io/gh/arnaud-zg/selector)
+[![Node.js CI](https://github.com/arnaud-zg/selector/actions/workflows/ci.yml/badge.svg)](https://github.com/arnaud-zg/selector/actions/workflows/ci.yml)
+[![release-please](https://github.com/arnaud-zg/selector/actions/workflows/release-please.yml/badge.svg)](https://github.com/arnaud-zg/selector/actions/workflows/release-please.yml)
+
 <p>Generic selector library in Typescript</p>
 
 <p>
